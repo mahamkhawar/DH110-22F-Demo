@@ -5,4 +5,4 @@
 
 This project is about...
 
-![screen shot of sustain.org](sustain.png)
+![screen shot of sustain.org](../sustain.png)
