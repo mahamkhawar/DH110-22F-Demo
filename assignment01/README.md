@@ -15,7 +15,8 @@ View full site here: [Institute for Sustainable Communities](https://sustain.org
 The Institute for Sustainable Communities has a global focus through focusing on three areas of impact: factories, community resilience, and cities. Their locations include the U.S., China, Bangladesh, and India. They approach creating sustainable communties by focusing on projects such as clean energy, urban systems, and water. In addition to information about their physical impact and donation information, they have a blog and podcast section which aim to tell stories of their work and inform about practices. 
 #### Heuristic Evaluation
 *Overall Evaluation*: This website is not tailored specifically as a resource for sustainable living practices in urban areas, however it does list urban and city areas as an area of impact. The site is also not specifically made for younger generations, but rather any member of the general population who has an interest in sustainability. The website 
-| Heuaristic & Description | Evaluation | Reccomendation for "Bad" Elements | Severity Rating |
+
+| Heuristic & Description | Evaluation | Reccomendation for "Bad" Elements | Severity Rating |
 | ------------- | ------------- || ------------- || ------------- |
 | 1. Visibility of system status | Good: The site highlights the button you are hovering over, drawing your attention.
 Good: The site has a large prominent search button in the upper right corner for users throughout the site, so it's easy to navigate.
