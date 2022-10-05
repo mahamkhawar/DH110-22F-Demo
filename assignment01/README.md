@@ -20,6 +20,7 @@ The Institute for Sustainable Communities has a global focus through focusing on
 | Heuristic & Description | Evaluation | Reccomendation for "Bad" Elements | Severity Rating |
 | ----------------------- | ---------- | --------------------------------- | --------------- |
 | 1. Visibility of system status | Good: The site highlights the button you are hovering over, drawing your attention. <br />Good: The site has a large prominent search button in the upper right corner for users throughout the site, so it's easy to navigate.<br />Bad: The site does not highlight the menu uption so it isn't always obvious where you are in the site. | Highlight both the main menu option and sub-menu options so users can easily know exactly where on the site they are. | 1 | 
+| 2. Match between system and the real world | Good: The site uses basic terminology such as "Program", "Donate", "About", "Blog" <br />Bad: The website uses a lot of accornyms and some of them are not very intuitive. | Use less accronyms and wite out the full form, or do a better job of explaining the accryonyms before using them | 1 | 
 
 | 2. Match between system and the real world | Content Cell  |
 | 3. User control and freedom |
