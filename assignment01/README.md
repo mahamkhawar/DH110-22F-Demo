@@ -50,3 +50,8 @@ Sustainability at UCLA focuses in on everything sustainability-related on campus
 | 8. Aesthetic and minimalist design | Good: The site has a clear and easily navigatoble design for surface level pages. <br />  Bad: A lot of blank and unused space on the site | Fill up the blank space on the website/ Make it proportional on each side | 1 |
 | 9. Help users recognize, diagnose, and recover from errors | Good: If the user searches for something unavailable it will prompt them to search again with broader terms. <br /> Bad: Some of the sources linked are unavailable and the site does not recognize this. | Make sure all sources linked are current and up to date. | 2 | 
 | 10. Help and documentation | Good: The site has a "Contact Us" button that leads to a Contact page within the site. <br /> Bad: The "Contact us" page is hidden within the "About" menu options and is hard to find. | Make it easier to find the pages instead of hiding them in the submenus. | 2 | 
+###Credits 
+Here are websites I used as references or for information.
+https://unfoundation.org/blog/post/5-statistics-on-why-sustainable-urban-development-matters/
+https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation
+https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
