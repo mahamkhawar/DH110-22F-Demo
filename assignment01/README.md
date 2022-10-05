@@ -1,6 +1,6 @@
 # Assignment 01
 
-## Tentative Title: City-Slickers & Sustainability 
+## Tentative Title: Sustainability in Rapid Urbanization
 ### Maham Khawar, DH110
 #### About the project
 According to the UN, 6 in 10 people will live in urban areas by 2030. Currently, the world's cities occupy only 3% of the land but are responsible for up to 80% of total world energy consumption and 75% of carbon emissions. With such high urban populations coupled with incredibly wasteful practices, people must be informed and active in making their community better for all living within it. Thus, I chose to focus on a UX project which will aim to get younger members of the generation involved in making the cities in which they live more sustainable and maintaining sustainable practices themselves. I chose to focus on younger groups as these are the age groups who tend to flock to the city, which is the most impactful area of unsustainable practices.
