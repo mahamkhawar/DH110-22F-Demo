@@ -21,9 +21,9 @@ The Institute for Sustainable Communities has a global focus through focusing on
 | ----------------------- | ---------- | --------------------------------- | --------------- |
 | 1. Visibility of system status | Good: The site highlights the button you are hovering over, drawing your attention. <br />Good: The site has a large prominent search button in the upper right corner for users throughout the site, so it's easy to navigate.<br />Bad: The site does not highlight the menu uption so it isn't always obvious where you are in the site. | Highlight both the main menu option and sub-menu options so users can easily know exactly where on the site they are. | 1 | 
 | 2. Match between system and the real world | Good: The site uses basic terminology such as "Program", "Donate", "About", "Blog" <br />Bad: The website uses a lot of accornyms and some of them are not very intuitive. | Use less accronyms and wite out the full form, or do a better job of explaining the accryonyms before using them | 1 | 
+| 3. User control and freedom  | Good: The text input box saves text even when you leave a page, so when you navigate to a different page and use the search button, the last search will be saved.<br />Bad: To exit elements such as search, or mailing list, the only option is to press the small "x" button, website does not support clicking anywhere outside of the element.<br />Bad: Website does not support a universal "esc" action where pressing the escape key allows a user to exit out of the current prompt.|Make the "x" button larger, allow users to click outside the element to exit it, and allow users to use the esc key to exit the element.| 1 | 
 
-| 2. Match between system and the real world | Content Cell  |
-| 3. User control and freedom |
+
 | 4. Consistency and standards |
 | 5. Error prevention |
 | 6. Recognition rather than recall |
