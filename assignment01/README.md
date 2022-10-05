@@ -7,5 +7,12 @@ According to the UN, 6 in 10 people will live in urban areas by 2030. Currently,
 
 In this assignment, I will conduct a heuristic evaluation of two websites which share similar goals to this project in informing about sustainability. The first site, Institute for Sustainable Communities, aims to help communities on a global scale of their economic, enviornmental, ans social challenges. The site lists multiple areas of impact, one being cities and rapid urbanization. The second site is Sustainability at UCLA, which focuses in on sustainability at the university-level, while also incorporating academics and how to get involved as a student.  
 
+
+#### Competitor A: Institute for Sustainable Communities
 ![screen shot of sustain.org](../sustain.png)
+View full site here: [Institute for Sustainable Communities](https://sustain.org/)
+
+
+
+
 ![screen shot of sustain.ucla.edu](../sustain.ucla.png)
