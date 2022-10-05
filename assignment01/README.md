@@ -16,6 +16,7 @@ The Institute for Sustainable Communities has a global focus through focusing on
 #### Heuristic Evaluation
 *Overall Evaluation*: This website is not tailored specifically as a resource for sustainable living practices in urban areas, however it does list urban and city areas as an area of impact. The site is also not specifically made for younger generations, but rather any member of the general population who has an interest in sustainability. The website 
 
+
 | Heuristic & Description | Evaluation | Reccomendation for "Bad" Elements | Severity Rating |
 | ------------- | ------------- || ------------- || ------------- |
 | 1. Visibility of system status | Good: The site highlights the button you are hovering over, drawing your attention.
