@@ -18,7 +18,7 @@ The Institute for Sustainable Communities has a global focus through focusing on
 
 
 | Heuristic & Description | Evaluation | Reccomendation for "Bad" Elements | Severity Rating |
-| ------------- | ------------- || ------------- || ------------- |
+| ----------------------- | ---------- | --------------------------------- | --------------- |
 
 
 | 1. Visibility of system status | Good: The site highlights the button you are hovering over, drawing your attention.
