@@ -17,9 +17,10 @@ The Institute for Sustainable Communities has a global focus through focusing on
 *Overall Evaluation*: This website is not tailored specifically as a resource for sustainable living practices in urban areas, however it does list urban and city areas as an area of impact. The site is also not specifically made for younger generations, but rather any member of the general population who has an interest in sustainability. The website 
 | Heuaristic & Description | Evaluation | Reccomendation for "Bad" Elements | Severity Rating |
 | ------------- | ------------- || ------------- || ------------- |
-| 1. Visibility of system status |Good: The site highlights the button you are hovering over, drawing your attention.
+| 1. Visibility of system status | Good: The site highlights the button you are hovering over, drawing your attention.
 Good: The site has a large prominent search button in the upper right corner for users throughout the site, so it's easy to navigate.
 Bad: The site does not highlight the menu uption so it isn't always obvious where you are in the site. | Highlight both the main menu option and sub-menu options so users can easily know exactly where on the site they are. | 1 | 
+
 | 2. Match between system and the real world | Content Cell  |
 | 3. User control and freedom |
 | 4. Consistency and standards |
