@@ -52,7 +52,7 @@ Sustainability at UCLA focuses in on everything sustainability-related on campus
 | 10. Help and documentation | Good: The site has a "Contact Us" button that leads to a Contact page within the site. <br /> Bad: The "Contact us" page is hidden within the "About" menu options and is hard to find. | Make it easier to find the pages instead of hiding them in the submenus. | 2 | 
 
 ### Credits 
-Here are websites I used as references or for information.
+Here are websites I used as references or for information.<br />
 https://unfoundation.org/blog/post/5-statistics-on-why-sustainable-urban-development-matters/<br />
 https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation<br />
 https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
