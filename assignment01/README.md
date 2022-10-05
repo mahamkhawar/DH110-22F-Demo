@@ -14,7 +14,7 @@ View full site here: [Institute for Sustainable Communities](https://sustain.org
 ##### Background Information
 The Institute for Sustainable Communities has a global focus through focusing on three areas of impact: factories, community resilience, and cities. Their locations include the U.S., China, Bangladesh, and India. They approach creating sustainable communties by focusing on projects such as clean energy, urban systems, and water. In addition to information about their physical impact and donation information, they have a blog and podcast section which aim to tell stories of their work and inform about practices. 
 ##### Heuristic Evaluation
-***Overall Evaluation***: 
+*Overall Evaluation*: 
 
 #### Competitor B: Sustainability at UCLA
 ![screen shot of sustain.ucla.edu](../sustain.ucla.png)
@@ -22,4 +22,4 @@ View full site here: [Sustainability at UCLA](https://www.sustain.ucla.edu/)
 ##### Background Information
 Sustainability at UCLA focuses in on everything sustainability-related on campus, including transportation, food, green building, energy, waste, and more. In addition to being an informative site where students can learn about on-going campus initiatives, the site also lists resources to get involved in sustainability as a student such as through organizations, subscribing to the e-letter, and campus research. 
 ##### Heuristic Evaluation
-***Overall Evaluation***: 
+*Overall Evaluation*: 
