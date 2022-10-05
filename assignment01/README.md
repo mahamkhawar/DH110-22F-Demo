@@ -53,6 +53,6 @@ Sustainability at UCLA focuses in on everything sustainability-related on campus
 
 ### Credits 
 Here are websites I used as references or for information.
-https://unfoundation.org/blog/post/5-statistics-on-why-sustainable-urban-development-matters/
-https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation
+https://unfoundation.org/blog/post/5-statistics-on-why-sustainable-urban-development-matters/<br />
+https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation<br />
 https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
