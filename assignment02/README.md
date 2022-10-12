@@ -17,15 +17,15 @@ For my usability test, I performed it remotely with my participant. I was in a p
 
 Here is an overview of the process for the usability test: 
 
-Intro
-Informed Consent Form
-Background questions
-Pre-test questions
-Tasks 1, 2, and 3
-Post-test questions
-SUS questionnaire
-Product satisfaction card
-Demographics
+- Intro
+- Informed Consent Form
+- Background questions
+- Pre-test questions
+- Tasks 1, 2, and 3
+- Post-test questions
+- SUS questionnaire
+- Product satisfaction card
+- Demographics
 
 ### User Testing Materials
 
