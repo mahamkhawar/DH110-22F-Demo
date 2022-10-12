@@ -13,7 +13,7 @@ From my heuristic evaluation, the usability issues I found for the site were:
 - User control and freedom
 - Aesthetic and minimalist design
 
-For my usability test, I performed it remotely with my participant. I was in a private setting, being my university dorm. I used Zoom to screen record the usability test. Through Zoom, I was able to give the participant remote control of my screen, so that they could directly 
+For my usability test, I performed it remotely with my participant. I was in a private setting, being my university dorm. I used Zoom to screen record the usability test. Through Zoom, I was able to give the participant remote control of my screen, so that they could directly navigate the site through my screen, which was being recorded.
 
 Here is an overview of the process for the usability test: 
 
