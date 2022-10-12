@@ -7,7 +7,7 @@ The Institute for Sustainable Communities is an international non-profit organiz
 
 We will be performing a usability test for the organization's website, linked [here](https://sustain.org/). The purpose in conducting this usability is to pinpoint user behavior in noticing flaws to current designs and navigation. Usability tests seek to affirm what was noted in the initial heuristic evaluation, while also pinpointing other areas of improvement. Users are asked to complete tasks while verbally explaining their decisions and feelings when doing so. 
 
-From my heuristic evaluation here are the usability issues I found for the site were:
+From my heuristic evaluation, the usability issues I found for the site were:
 
 - Consistency and standards
 - User control and freedom
