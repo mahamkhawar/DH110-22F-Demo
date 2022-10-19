@@ -37,7 +37,7 @@ Methods:
 [Contextual Inquiry Guide Transcription](https://docs.google.com/document/d/1XbAsOtck7xtpydQLxzokBv6H4OG-mV8uDMayIdg7Di8/edit?usp=sharing)
 
 [Link to video recording](https://drive.google.com/file/d/1zFNDe5cfxCEGm12bQhSiMgotCFv6sCw9/view?usp=sharing)
-IMPORTANT NOTE: The Zoom video cut out due to wifi issues but the user searched "Sustainability Community" and clicked the site that I am studying, which happened to be the first site that popped up. My questions were prepared for any website that the user would've clicked on. I understand the rubric said not to lead them to the site, but in my case they selected it to explore for resources and community involvement. 
+IMPORTANT NOTE: The Zoom video cut out due to wifi issues but the user searched "Sustainability Community" and clicked the site that I am studying, which happened to be the first site that popped up. My questions were prepared for any website that the user would've clicked on. I understand the rubric said not to lead them to the site, but in my case they selected it to explore for resources and community involvement. This also affected the first ten minutes of the transcript, where it may be around 10-15 seconds ahead.
 
 Interesting quotes and insights and insights from the interview: 
 - How the user finds groups, 8:12
