@@ -34,9 +34,10 @@ Methods:
 
 
 ### Step 5 Conduct the research
-Contextual Inquiry Guide with transcriptions 
+[Contextual Inquiry Guide Transcription](https://docs.google.com/document/d/1XbAsOtck7xtpydQLxzokBv6H4OG-mV8uDMayIdg7Di8/edit?usp=sharing)
 Link to video recording
 Interesting quotes and insights and insights from the interview: 
 
 ### Step 6 Organize/Documentation
-Reflection 
+Reflection: 
+I enjoyed the contextual inquiry as I was able to get a lot of insight from someone who is actively passionate about sustainability. There was less of a formal feeling in comparison to the usability test, and I felt that I got a lot of feedback regarding not only issues about the site but what someone who is interested in sustainability would like to see in general. Additionally, I was able to relate the tasks to be more general version of the usability tasks, which I feel is more aligned to what the user would think in the moment. For example, the user would think "I want to look at how I can get involved in the community" rather than "I am trying to see how to use the searchbar to find community outreach programs in my local area". Looking back, there are some things I could've improved on. This includes knowing how much I can help/when to interject when a user is stuck trying to navigate a task. I also think I look tired in my interview, which is something I should be more cognizant of in the future so the participant doesn't think I'm bored or uninterested in the feedback their providing. Overall, I found it to be a very rewarding experience.
