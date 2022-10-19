@@ -25,12 +25,14 @@
 
 ### Step 3  Pick an qualitative research method 
 Methods: 
-- I decided to use the method of an interview
+- I decided to use the method of an individual interview that would include overt observation of the participant. 
 
 ### Step 4 Plan the details
-Link to script: 
+Contextual Inquiry Guide
+
 
 ### Step 5 Conduct the research
+Contextual Inquiry Guide with transcriptions 
 
 ### Step 6 Organize/Documentation
 Reflection 
