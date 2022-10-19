@@ -25,7 +25,7 @@
 
 ### Step 3  Pick an qualitative research method 
 Methods: 
-- I decided to use the method of an individual interview that would include overt observation of the participant.
+- I decided to use the method of an individual interview that would include overt observation of the participant performing their tasks.
 
 
 ### Step 4 Plan the details
