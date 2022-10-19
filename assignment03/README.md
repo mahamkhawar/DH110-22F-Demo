@@ -35,7 +35,8 @@ Methods:
 
 ### Step 5 Conduct the research
 [Contextual Inquiry Guide Transcription](https://docs.google.com/document/d/1XbAsOtck7xtpydQLxzokBv6H4OG-mV8uDMayIdg7Di8/edit?usp=sharing)
-Link to video recording
+[Link to video recording](https://drive.google.com/file/d/1L9l1ievvTPSFrrQ35PJSPydVRpGhcLjY/view?usp=sharing)
+
 Interesting quotes and insights and insights from the interview: 
 - How the user finds groups, 00:31:12
    - “Usually it's by word of mouth and if i'm going through like a  group which is into sustainability. A lot of people there are passionate about like different sectors of sustainability. so they'll always be talking about like other activities that they're part of, and that's kind of how like I learned about it.”
