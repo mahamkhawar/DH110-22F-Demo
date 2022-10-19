@@ -29,7 +29,7 @@ Methods:
 
 
 ### Step 4 Plan the details
-- Contextual Inquiry Guide
+- [Link to Contextual Inquiry Guide](https://docs.google.com/document/d/1LLw50MNZCipD09QcdXLJ1s8Z1Ht8FGw3u8DkxM7cSMI/edit?usp=sharing)
 - I will collect notes via video recording, similar to how I did in the pilot testing. Zoom, the recording platform I will use, will be able to both record the interviewee's face and their control of the screen.
 
 
