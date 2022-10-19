@@ -14,6 +14,7 @@
 
 ### Step 2 Target users
 - What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
+   - 
 - In which context (where, why, under which conditions) would the users do that activity? 
 - What would the users usually do in order to complete that activity? 
 
