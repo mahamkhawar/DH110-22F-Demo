@@ -36,18 +36,19 @@ Methods:
 ### Step 5 Conduct the research
 [Contextual Inquiry Guide Transcription](https://docs.google.com/document/d/1XbAsOtck7xtpydQLxzokBv6H4OG-mV8uDMayIdg7Di8/edit?usp=sharing)
 
-[Link to video recording](https://drive.google.com/file/d/1L9l1ievvTPSFrrQ35PJSPydVRpGhcLjY/view?usp=sharing)
+[Link to video recording](https://drive.google.com/file/d/1zFNDe5cfxCEGm12bQhSiMgotCFv6sCw9/view?usp=sharing)
+IMPORTANT NOTE: The Zoom video cut out due to wifi issues but the user searched "Sustainability Community" and clicked the site that I am studying, which happened to be the first site that popped up. My questions were prepared for any website that the user would've clicked on. I understand the rubric said not to lead them to the site, but in my case they selected it to explore for resources and community involvement. 
 
 Interesting quotes and insights and insights from the interview: 
-- How the user finds groups, 00:31:12
+- How the user finds groups, 8:12
    - “Usually it's by word of mouth and if i'm going through like a  group which is into sustainability. A lot of people there are passionate about like different sectors of sustainability. so they'll always be talking about like other activities that they're part of, and that's kind of how like I learned about it.”
- - Users thoughts bout sustainability sites in general, 00:34:06
+ - Users thoughts bout sustainability sites in general, 9:06
    - One thing is I think there's a lot of times like i'll find a source for sustainability, and they'll give me a lot of like information but they won't list their sources or they will list their site site a lot of the information that they're claiming to have, or a lot of times like you'll find websites for sustainability that were built in like the nineties, and they're really outdated and hard to use.
-- Want for cleaner design, 1:00:007
+- Want for cleaner design, 29:33
    - "I like easy to use tabs up top where I can like easily access local like local things. I can do resources. I can access just like, maybe like an email list. And just like have it very clearly laid out in what the nice like clean ui or design would be nice."
  
 
 
 ### Step 6 Organize/Documentation
 Reflection: 
-I enjoyed the contextual inquiry as I was able to get a lot of insight from someone who is actively passionate about sustainability. There was less of a formal feeling in comparison to the usability test, and I felt that I got a lot of feedback regarding not only issues about the site but what someone who is interested in sustainability would like to see in general. Additionally, I was able to relate the tasks to be more general version of the usability tasks, which I feel is more aligned to what the user would think in the moment. For example, the user would think "I want to look at how I can get involved in the community" rather than "I am trying to see how to use the searchbar to find community outreach programs in my local area". Looking back, there are some things I could've improved on. This includes knowing how much I can help/when to interject when a user is stuck trying to navigate a task. I also think I look tired in my interview, which is something I should be more cognizant of in the future so the participant doesn't think I'm bored or uninterested in the feedback their providing. Overall, I found it to be a very rewarding experience.
+I enjoyed the contextual inquiry as I was able to get a lot of insight from someone who is actively passionate about sustainability. There was less of a formal feeling in comparison to the usability test, and I felt that I got a lot of feedback regarding not only issues about the site but what someone who is interested in sustainability would like to see in general. Additionally, I was able to relate the tasks to be more general version of the usability tasks, which I feel is more aligned to what the user would think in the moment. For example, the user would think "I want to look at how I can get involved in the community" rather than "I am trying to see how to use the searchbar to find community outreach programs in my local area". Looking back, there are some things I could've improved on. This includes knowing how much I can help/when to interject when a user is stuck trying to navigate a task. I also think I look tired in my interview, which is something I should be more cognizant of in the future so the participant doesn't think I'm bored or uninterested in the feedback their providing. Another part of the interview which was frustrating was the wifi cutting out, resulting in part of the task not being recorded, specifically the part wher the user looks at different online resources to choose from when searching sustainability sites.  Overall, I found it to be a very rewarding experience.
