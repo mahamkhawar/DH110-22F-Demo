@@ -35,6 +35,7 @@ Methods:
 
 ### Step 5 Conduct the research
 [Contextual Inquiry Guide Transcription](https://docs.google.com/document/d/1XbAsOtck7xtpydQLxzokBv6H4OG-mV8uDMayIdg7Di8/edit?usp=sharing)
+
 [Link to video recording](https://drive.google.com/file/d/1L9l1ievvTPSFrrQ35PJSPydVRpGhcLjY/view?usp=sharing)
 
 Interesting quotes and insights and insights from the interview: 
