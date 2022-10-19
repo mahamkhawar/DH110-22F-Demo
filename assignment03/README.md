@@ -25,14 +25,18 @@
 
 ### Step 3  Pick an qualitative research method 
 Methods: 
-- I decided to use the method of an individual interview that would include overt observation of the participant. 
+- I decided to use the method of an individual interview that would include overt observation of the participant.
+
 
 ### Step 4 Plan the details
-Contextual Inquiry Guide
+- Contextual Inquiry Guide
+- I will collect notes via video recording, similar to how I did in the pilot testing. Zoom, the recording platform I will use, will be able to both record the interviewee's face and their control of the screen.
 
 
 ### Step 5 Conduct the research
 Contextual Inquiry Guide with transcriptions 
+Link to video recording
+Interesting quotes and insights and insights from the interview: 
 
 ### Step 6 Organize/Documentation
 Reflection 
