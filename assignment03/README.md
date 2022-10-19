@@ -37,6 +37,14 @@ Methods:
 [Contextual Inquiry Guide Transcription](https://docs.google.com/document/d/1XbAsOtck7xtpydQLxzokBv6H4OG-mV8uDMayIdg7Di8/edit?usp=sharing)
 Link to video recording
 Interesting quotes and insights and insights from the interview: 
+- How the user finds groups, 00:31:12
+   - “Usually it's by word of mouth and if i'm going through like a  group which is into sustainability. A lot of people there are passionate about like different sectors of sustainability. so they'll always be talking about like other activities that they're part of, and that's kind of how like I learned about it.”
+ - Users thoughts bout sustainability sites in general, 00:34:06
+   - One thing is I think there's a lot of times like i'll find a source for sustainability, and they'll give me a lot of like information but they won't list their sources or they will list their site site a lot of the information that they're claiming to have, or a lot of times like you'll find websites for sustainability that were built in like the nineties, and they're really outdated and hard to use.
+- Want for cleaner design, 1:00:007
+   - "I like easy to use tabs up top where I can like easily access local like local things. I can do resources. I can access just like, maybe like an email list. And just like have it very clearly laid out in what the nice like clean ui or design would be nice."
+ 
+
 
 ### Step 6 Organize/Documentation
 Reflection: 
