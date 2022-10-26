@@ -2,6 +2,15 @@
 ## Assignment 4
 
 ### Digital Storytelling: 
+Digital storytelling is essential to User Experience. It allows the researcher to delve into the mind and emotions of the user, which is key when understanding how they interact with products. By stoytelling, we are putting a face to a name, even if it is hypothetical. By attempting to put ourselves in the shoes of the user, we are then able to go through the entire journey of being introduced to a product and experiencing it's positives and it's pitfalls. We are then able to able to better and more empathetic solutions to problems.
+
+### Tasks: 
+
+#### Task 1: Finding resources (blogs, infographics, podcasts)
+The first task is designed for users of the website who engage with sustainability in a more passive way. They are usually not experts on environmentalism, yet still want to be involved beyond their current capacity. From the research thus far with pilot usability testing and user research, I've found that one important factor is for users to get their information in a simple and reliable way. For many users who are younger, it is common to get information from social media where sources aren't listed and it is very cluttered in terms of format. Thus, providing users with resources for information in how to implement sustainability from reliable experts at the Institute for Sustainability would be impactful for users of the site as well as the cause.
+
+#### Task 2: Getting actively involved (local community sites, volunteering)
+The second task is focused on users getting actively involved with specific sites in their local community. Users should be able to find direct contact information for active sites in their local region. This is for users who tend to be more knowledgable or active when it comes to their humanitarian desires. They might have a background in environmentalism or are already passively involved with getting reliable information through other routes. Thus, the task of getting involved with the local community should be efficient, as to not deter users nor lose their motivation in volunteering their time.
 
 ### Personas
 
@@ -12,7 +21,7 @@
 
 #### Persona 2:
 ![ ](../Persona-Simon.png)
-#### Empathy Map 1: Lara 
+#### Empathy Map 2: Simon 
 ![ ](../Empathy-Map-Simon.png)
 
 ### User Scenarios and Journey Map
