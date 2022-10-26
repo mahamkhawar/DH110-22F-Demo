@@ -13,7 +13,7 @@
 #### Persona 2:
 ![ ](../Persona-Simon.png)
 #### Empathy Map 1: Lara 
-![ ](../Empathy Map-Simon.png)
+![ ](../Empathy-Map-Simon.png)
 
 ### User Scenarios and Journey Map
 
@@ -29,7 +29,7 @@ How:
 -  Lara is grateful that she was able to learn so quickly and is relieved at the fact that she got this information about the drought from a reliable source. She will make sure to implement some of the suggestions laid out in her daily life. 
 
 #### Lara's Journey Map:
-![](../Journey Map-Lara.png)
+![](../Journey-Map-Lara.png)
 
 #### Simon's Scenario: 
 
@@ -44,4 +44,4 @@ How:
 - Simon feels satisfied that the process was quick and he was able to find what he was looking for during his lunch break at school.
 
 #### Simon's Journey Map: 
-![](../Journey Map-Simon.png)
+![](../Journey-Map-Simon.png)
