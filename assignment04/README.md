@@ -7,9 +7,13 @@
 
 #### Persona 1: Lara
 ![](../Persona-Lara.png)
-
+#### Empathy Map 1: Lara 
+![](../Empathy Map-Lara.png)
 
 #### Persona 2:
+![](../Persona-Simon.png)
+#### Empathy Map 1: Lara 
+![](../Empathy Map-Simon.png)
 
 ### User Scenarios and Journey Map
 
@@ -23,8 +27,9 @@ How:
 - Lara is scrolling through twitter when she sees that the California drought is a trending topic. She wants to learn more but is hesitant on looking more just on other websites that aren't backed by a reliable organization. In searching for resources related to sustainability, Lara logs on to the website for the Institute for Sustainable Communities. She scrolls through the homepage and sees a bunch of blocks consisting of a mix of podcasts, blogs, and infographics about information relating to sustainable communities. She begins to get frustrated at the layout of the homepage, as she is confused about the mixed media types. 
 - Then, she spots an additional tab on the navigation bar that lists "Resources." Perfect, that is exactly what she was looking for. When she clicks on resources she is directed to a page which lists out resources about sustainability. She is able to filter out by media types as well as by specific topic. She filters out by the topic of water conservation and is able to find an inforgrpahic that educates her more on the subject. 
 -  Lara is grateful that she was able to learn so quickly and is relieved at the fact that she got this information about the drought from a reliable source. She will make sure to implement some of the suggestions laid out in her daily life. 
-Lara's Journey Map:
 
+#### Lara's Journey Map:
+![](../Journey Map - Lara.png)
 
 #### Simon's Scenario: 
 
@@ -38,4 +43,5 @@ How:
 - Luckily for Simon, as he hovers his cursor over the map he is able to click into his specific region, being the bay area in California. The gives  control and freedom to the user as he is able to look over what other regions are up to when it comes to active sites. Simon is able to click the "Get Involved" button under a community site he is interested in getting involved in. There, he is redirected to a page which lists out more specific information on what is being done at the community site and contacts. 
 - Simon feels satisfied that the process was quick and he was able to find what he was looking for during his lunch break at school.
 
-Simon's Journey Map: 
+#### Simon's Journey Map: 
+![](../Journey Map - Simon.png)
