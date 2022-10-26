@@ -19,7 +19,7 @@ The second task is focused on users getting actively involved with specific site
 #### Empathy Map 1: Lara
 ![](../Empathy-Map-Lara.png)
 
-#### Persona 2:
+#### Persona 2: Simon
 ![ ](../Persona-Simon.png)
 #### Empathy Map 2: Simon 
 ![ ](../Empathy-Map-Simon.png)
