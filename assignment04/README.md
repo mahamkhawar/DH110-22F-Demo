@@ -7,13 +7,14 @@
 
 #### Persona 1: Lara
 ![](../Persona-Lara.png)
-#### Empathy Map 1: Lara 
-![](../Empathy Map-Lara.png)
+#### Empathy Map 1: Lara
+
+![](../Empathy Map - Lara.png)
 
 #### Persona 2:
-![](../Persona-Simon.png)
+![ ](../Persona-Simon.png)
 #### Empathy Map 1: Lara 
-![](../Empathy Map-Simon.png)
+![ ](../Empathy Map - Simon.png)
 
 ### User Scenarios and Journey Map
 
