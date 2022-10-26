@@ -54,3 +54,6 @@ How:
 
 #### Simon's Journey Map: 
 ![](../Journey-Map-Simon.png)
+
+### Reflection: 
+I really enjoyed this part of the UX project. I have a background in marketing research, and have been able to work on consumer personas before. What I really enjoy about storytelling is that it emphasizes empathy for the user, which is integral in User Experience. I feel like I understand not only the user but the product a lot more now. This has been a good way for me to start really narrowing down my focus for improvements and what I think is most important for users to get out of interactions with the website. I think I could've improved on going into more specifics with the scenarios for each persona. 
