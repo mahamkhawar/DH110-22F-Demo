@@ -5,7 +5,9 @@
 
 ### Personas
 
-#### Persona 1: 
+#### Persona 1: Lara
+![](../Persona-Lara.png)
+
 
 #### Persona 2:
 
