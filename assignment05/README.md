@@ -7,7 +7,8 @@ Low-fidelity prototyping is both a time-efficent and cost-efficient way to test 
 
 ### User Research: 
 Based on the user research, I focus on these research questions:
-- 
+- Finding out how to get involved 
+- Finding reliable resources
 
 ### Personas: 
 I created two personas that would solve each research question.
@@ -36,13 +37,11 @@ Pink: Task 2
 ![](../userinteraction2.jpg)
 ![](../userinteraction3.jpg)
 ![](../userinteraction4.jpg)
-![](../userinteraction5.jpg)
 
 ### Low-Fidelity Prototype on Figma
+https://www.figma.com/file/xvuF3d8NpoqArfcYPrvAR8/Untitled?node-id=0%3A1
 
-![Link to figma file](../lhttps://www.figma.com/file/xvuF3d8NpoqArfcYPrvAR8/Untitled?node-id=0%3A1) 
-
-![](../userinteraction5.png)
+![](../userinteraction5.jpg)
 
 ### Reflection
 
