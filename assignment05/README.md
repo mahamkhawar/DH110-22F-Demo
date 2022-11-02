@@ -1,6 +1,6 @@
 # DH110-22F-MahamKhawar
 
-## Assignment-06-Low Fidelity Prototype
+## Assignment-05-Low Fidelity Prototype
 
 ### Purpose: 
 Low-fidelity prototyping is both a time-efficent and cost-efficient way to test the signifiers of what a product affords before the process of fully investing design-time into mid or high fidelity prototypes. By conducting low-fidelity prototyping, the designer is able to uncover interactions and inevitable issues early on which saves time and resources. The earlier one makes changes in a product life-cycle, the more usable we are able to make the product in later stages. 
