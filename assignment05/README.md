@@ -6,7 +6,7 @@
 2. Filter by different initatives
 
 ### Wireframes:
-![](../wireframes.png)
+![](../wireframes1.png)
 
 Wireflow:
 ![](../wireflow.png)
