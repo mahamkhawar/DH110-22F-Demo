@@ -34,6 +34,8 @@ Blue: Task 1
 Pink: Task 2
 
 ![](../lowfiprototypetesting.png)
+
+The user was able to complete both tasks successfully, but did have trouble with the filter task as they noted it wasn's super clear on how to work the filter (dropdown, checkboxes, etc.)
  
 ### Low-Fidelity Prototype Testing Photos
 
@@ -44,6 +46,8 @@ Pink: Task 2
 ### Low-Fidelity Prototype on Figma
 
 I decided to refine the wireframes to be cleaner with revisions I collected from my prototype testing. Below is a photo of my participant observing one of the updated changed to the wireframe. 
+
+Note: I am working on this file as I explore more about my project. Thus, some edits are going to be after the  deadline for this assignment. You can check version history on the file to explore what parts I completed before the deadline.
  
 https://www.figma.com/file/xvuF3d8NpoqArfcYPrvAR8/Untitled?node-id=0%3A1
 
