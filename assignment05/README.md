@@ -11,4 +11,4 @@
 ![](../wireframe3.jpg)
 
 Wireflow:
-![](../wireflow.jpg)
+![](../wireflow.png)
