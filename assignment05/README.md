@@ -28,8 +28,11 @@ I chose these as my tasks becuase I found users of the site to struggle most wit
 ![](../wireflow.png)
 
 ### Low-Fidelity Prototype Testing
+
 Blue: Task 1
+
 Pink: Task 2
+
 ![](../lowfiprototypetesting.png)
  
 ### Low-Fidelity Prototype Testing Photos
@@ -39,6 +42,9 @@ Pink: Task 2
 ![](../userinteraction4.jpg)
 
 ### Low-Fidelity Prototype on Figma
+
+I decided to refine the wireframes to be cleaner with revisions I collected from my prototype testing. Below is a photo of my participant observing one of the updated changed to the wireframe. 
+ 
 https://www.figma.com/file/xvuF3d8NpoqArfcYPrvAR8/Untitled?node-id=0%3A1
 
 ![](../userinteraction5.jpg)
