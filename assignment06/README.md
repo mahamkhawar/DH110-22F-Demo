@@ -14,11 +14,23 @@ This interactive prototype was made using Figma, a collaborative tool for creati
 ### Links
 Digitized Wireflow: 
 Interface design page that show test screens and design system information: 
+### Chosen Wireframe
+![](../chosenwireframe.png)
 
+### Layout Design
+![](../layoutdesign.png)
 
 ### Typographic Variation
+![](../typodesign.png)
+
 ### Shape Variation
+![](../shapevariation.png)
+
 ### Color Variation 
-### Final Design Style Guide
+![](../colorvar.png)
+
 ### Impression Test
+![Video Link](../https://drive.google.com/file/d/1RNlBj4dC-0CJA55CUaZXv3JS0FlthOjt/view?usp=sharing)
+### Final Design Style Guide
+
 ### Accessibility Check 
