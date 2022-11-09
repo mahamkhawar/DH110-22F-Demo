@@ -57,5 +57,21 @@ From the impression test, I made some edits based on some of what the participan
 ### Design System: 
 ![](../designsystem.png)
 - Typeface:
+  - Family: Inter
+    - Header: Bold, Size 45
+    - Button Labels: Bold, Size 24
+    - Body: Regular, Size 14
 - Color Scheme:
-- Layout Grid: 
+  - Navigation Bar Color: D75745
+    - Subheader / Text Color: 000000
+    - Button Color: AB3B2B
+    - Background Color: F4EDED
+- Layout Grid:
+  - 10 columns by 10 rows
+  - Columns:
+    - Margins: 5
+    - Gutter: 20
+  - Rows:
+    - Height: 5
+    - Gutter: 20
+
