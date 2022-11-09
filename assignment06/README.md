@@ -30,7 +30,15 @@ Interface design page that show test screens and design system information:
 ![](../colorvar.png)
 
 ### Impression Test
-[Video Link](https://drive.google.com/file/d/1RNlBj4dC-0CJA55CUaZXv3JS0FlthOjt/view?usp=sharing)
-### Final Design Style Guide
+Here is the [Video Link](https://drive.google.com/file/d/1RNlBj4dC-0CJA55CUaZXv3JS0FlthOjt/view?usp=sharing) for my impression test. I did a virtual meeting via Zoom for this test. The participant chose to keep their camera off, so it was just an audio-recording on their part. I first asked her general impressions of the site as well what she thinks the purpose of the site and even the page is. I then went on to show stylistic variations and had her identify preferences and thoughts about the variations. 
 
+### Findings:
+#### Overall Impression:
+The participant was able to identify the purpose of the site immediately, and the task which was associated with the page.
+#### Typography:
+The participant preferred the first font type, which is Inter. The user also believed the font types to be different sizes, even though they were not.
+#### Shape:
+The participant preferred more curved shaped which I thought was interesting because it might take away from the professionalism of the site. 
+#### Color:
+The participant preferred light mode and stated that the dark mode could be improved with the orange overlay to make the contrast less harsh.
 ### Accessibility Check 
