@@ -30,7 +30,7 @@ Interface design page that show test screens and design system information:
 ![](../colorvar.png)
 
 ### Impression Test
-![Video Link](../https://drive.google.com/file/d/1RNlBj4dC-0CJA55CUaZXv3JS0FlthOjt/view?usp=sharing)
+![Video Link](https://drive.google.com/file/d/1RNlBj4dC-0CJA55CUaZXv3JS0FlthOjt/view?usp=sharing)
 ### Final Design Style Guide
 
 ### Accessibility Check 
