@@ -75,3 +75,13 @@ From the impression test, I made some edits based on some of what the participan
     - Height: 5
     - Gutter: 20
 
+### Design Decisions
+#### Color Scheme:
+I extracted these colors directly from the current sites brand. I did make variations with having the background color be a softer white so there is not such a large contrast as well as the buttons being a darker shade of orange as to maintain accessibility standards.
+#### Typeface:
+I chose to go with Inter because that is the font that my participant preferred out of the options I provided. I liked both letter casing for Inter as well as its readability. I made the font size 14 for the body as to be pretty standard for users skimming through information. 
+#### Layout Grid:
+I chose layout grid of 10x10 with 10 rows and 10 columns because I am designing a webpage and found that having a larger number of both allowed me more flexibility in placement of various components. Since a desktop is larger than a mobile device, it's important that additional components are incorporated to fully fit the entirety of the screen.
+
+
+
