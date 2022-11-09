@@ -54,3 +54,8 @@ From the impression test, I made some edits based on some of what the participan
 
 #### Button Label vs Button
 ![](../labelxbutton.png)
+### Design System: 
+![](../designsystem.png)
+- Typeface:
+- Color Scheme:
+- Layout Grid: 
