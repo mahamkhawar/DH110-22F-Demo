@@ -7,7 +7,7 @@ The purpose of this re-design is to make the Institute for Sustainable Communiti
 2. Find relevant resources in preferred media format for passive involvement
 
 ### Purpose
-The purpose of creating this interactive prototype is to digitize the lo-fidelity wireframes and create a styleguide for designs moving from this point forward. By being able to visualize the frames, we can pinpoint our solutions how users will intereact with them. 
+The purpose of creating this interactive prototype is to digitize the lo-fidelity wireframes and create a styleguide for designs moving from this point forward. By being able to visualize the frames, we can pinpoint our solutions how users will intereact with them. For the purpose of this interface design, I will be focusing on Task 1, which is the ability to get involved in the local area. 
 ### Process 
 This interactive prototype was made using Figma, a collaborative tool for creating interface design. After creating hand-drawn low-fidelity wireframes, I transferred my deisgns to Figma, utilizing frames for a 14-inch Macbook Air. I used a grid to layout the structure for this redesign to ensure components were proportional and evenly distributed. I then went on to determine aspects such as typography, color scheme, and shape variation. From there I conducted an impression test and an accessibility check to gather initial feedback and ensure inclusivity in my re-design.
 
