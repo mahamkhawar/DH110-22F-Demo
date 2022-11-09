@@ -43,7 +43,7 @@ The participant preferred more curved shaped which I thought was interesting bec
 The participant preferred light mode and stated that the dark mode could be improved with the orange overlay to make the contrast less harsh.
 ### Final Design 
 From the impression test, I made some edits based on some of what the participant suggested. I took the suggestions of keeping the Inter font and I added a curviture of 15 for shapes to keep a balance between professionalism and friendliness. I also bolded header to make it pop out and be more apparent to the user. 
-![](../finaldesign.png)
+![](../finaldesign1.png)
 ### Accessibility Check 
 
 #### Text vs Background
