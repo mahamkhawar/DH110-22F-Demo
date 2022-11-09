@@ -12,8 +12,8 @@ The purpose of creating this interactive prototype is to digitize the lo-fidelit
 This interactive prototype was made using Figma, a collaborative tool for creating interface design. After creating hand-drawn low-fidelity wireframes, I transferred my deisgns to Figma, utilizing frames for a 14-inch Macbook Air. I used a grid to layout the structure for this redesign to ensure components were proportional and evenly distributed. I then went on to determine aspects such as typography, color scheme, and shape variation. From there I conducted an impression test and an accessibility check to gather initial feedback and ensure inclusivity in my re-design.
 
 ### Links
-Digitized Wireflow: 
-Interface design page that show test screens and design system information: 
+[Digitized Wireflow](https://www.figma.com/file/xvuF3d8NpoqArfcYPrvAR8/Lo-fi-Prototype?node-id=3%3A862&t=SK1LkKCka8Qs8yGt-1)
+[Interface design page that show test screens and design system information](https://www.figma.com/file/3AdMYw7Um1PU7b3BG4h2gK/Assignment6-Interface-Design-Page?node-id=0%3A1&t=VgUziw8Xo6JbeKJy-1)
 ### Chosen Wireframe
 ![](../chosenwireframe.png)
 
