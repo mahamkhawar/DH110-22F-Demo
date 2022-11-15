@@ -13,4 +13,8 @@ THe purpose of this interactive prototype is to test the interface of the mobile
 1. Filter through specific media items related to sustainability (geared towards passive users).
 2. Find contact information for local community efforts (geared towards qctive users).
 ### Wireflow and final interface design
+#### Task 1 Flow
+#### Task 2 Flow
+#### Prototype (1st Iteration)
+
 ### Cognitive Walkthrough - In-Class
