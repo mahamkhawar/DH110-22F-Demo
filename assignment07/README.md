@@ -14,7 +14,12 @@ THe purpose of this interactive prototype is to test the interface of the mobile
 2. Find contact information for local community efforts (geared towards qctive users).
 ### Wireflow and final interface design
 #### Task 1 Flow
+![Flow 1](hifitask1)
+
 #### Task 2 Flow
+![Flow 2](hifitask2)
+
 #### Prototype (1st Iteration)
+[Prototype Link](https://www.figma.com/proto/HYb1oEP49dYpL5DHfSJezO/Prototype-1?page-id=0%3A1&node-id=1%3A2&viewport=203%2C182%2C0.27&scaling=scale-down&starting-point-node-id=1%3A2)
 
 ### Cognitive Walkthrough - In-Class
