@@ -15,10 +15,10 @@ THe purpose of this interactive prototype is to test the interface of the mobile
 ### Wireflow and final interface design
 [Link to Wireflow](https://www.figma.com/file/vahxqm3gktrfkwjEUeQbvl/Wireflow?node-id=31%3A59&t=MI6AcaaIZ9HjXgUr-1)
 #### Task 1 Flow
-![Flow 1](hifitask1.png)
+![Flow 1](hifitask1)
 
 #### Task 2 Flow
-![Flow 2](hifitask2.png)
+![Flow 2](hifitask2)
 
 #### Prototype (1st Iteration)
 [Prototype Link](https://www.figma.com/proto/HYb1oEP49dYpL5DHfSJezO/Prototype-1?page-id=0%3A1&node-id=1%3A2&viewport=203%2C182%2C0.27&scaling=scale-down&starting-point-node-id=1%3A2)
