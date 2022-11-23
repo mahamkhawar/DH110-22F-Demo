@@ -24,3 +24,17 @@ The purpose of this interactive prototype is to test the interface of the mobile
 [Prototype Link](https://www.figma.com/proto/HYb1oEP49dYpL5DHfSJezO/Prototype-1?page-id=0%3A1&node-id=1%3A2&viewport=203%2C182%2C0.27&scaling=scale-down&starting-point-node-id=1%3A2)
 
 ### Cognitive Walkthrough - In-Class
+[Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/1OLTQzd9SlKe1sWnlE6MGolWR03hd6t1t23vkX-vsPRQ/edit?usp=sharing)
+
+Overall, I did find the cognitive walkthrough to be a really informative process. The two participants were able to understand the flow of my two tasks while also providing constructive criticism and suggestions.
+
+Based on the feedback provided, I would make the following edits in my redesign: 
+- Make navigation bar more interactive, highlights what page user is on
+  - Based on this feedback: " The navigation menu doesn't have indicators which page I'm at. If that could be highlighted, it would help the user know where they are."
+- Make buttons have more signifiers that they're buttons (drop shadows, "Click here" text)
+  - Based on this feedback: "I think some points should be more obvious to click"
+- Add mobile navigation bar on bottom (for iPhone safari users)
+  - Based on this feedback:  "I'm assuming that this website will have the navigation bar."
+
+### Reflection
+
