@@ -38,3 +38,4 @@ Based on the feedback provided, I would make the following edits in my redesign:
 
 ### Reflection
 
+Overall, I found this interactive prototype to be very interesting. I enjoyed seeing everything come together to create a somewhat final product. I enjoyed the cognitive walkthrough, as it really highlights how central users suggestions are in the entire design process, and how they are consulted with nearly every step. 
