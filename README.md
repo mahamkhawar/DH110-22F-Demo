@@ -38,7 +38,7 @@ After, creaitng a high-fidelity screen that includes typographic, color, and sha
 
 
 <figure class ="video_container">
-   <iframe width ="560" height = "315" src="https://youtu.be/bBCrcHsH2fQ" frameborder ="0" allow="accelerometer; encrypted-media; gyroscrope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width ="560" height = "315" src="https://www.youtube.com/embed/bBCrcHsH2fQ" frameborder ="0" allow="accelerometer; encrypted-media; gyroscrope; picture-in-picture" allowfullscreen></iframe>
   </figure>
                                                                                                 
 ## Conclusion 
