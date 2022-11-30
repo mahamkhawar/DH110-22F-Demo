@@ -45,6 +45,8 @@ After, creaitng a high-fidelity screen that includes typographic, color, and sha
 
 From this quarter, I feel that I was able to learn a lot about the design process. Before going into this class I would say I preferred user research, and while that hasn't changed, I do feel that I both understand and appreciate the user interface design aspect of user expereience more. 
 
-The parts of this project which definitely tested my 
+The parts of this project which definitely challenged me includes the prototyping asepcts of the process. I found high-fidelity prototyping to be somewhat diffcult, especially becuase I have internship experience when it comes to digital storytelling and interviewing. However, I liked how I had full control of taking what I learned from user interviews and placing it on the physical product. Each design choice I made was based on research I had conducted and it was fruitful to see that come into play.
+
+All in all, this definitely was a challenging project and course sometimes but I learned a lot of skills and informations which I can put towards my career post-graduation, and I am very grateful to have this opportunity!
 
 
