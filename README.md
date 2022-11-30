@@ -27,6 +27,7 @@ I then created wireframes, which can be found [here](https://mahamkhawar.github.
 
 ## Low-fidelity prototype
 ![ ](lowfiprototypetesting.png)
+![ ](chosenwireframe.png)
 After creating the wireframes on pen and paper, I digitizied it through a [low-fidelity prototype](https://www.figma.com/file/xvuF3d8NpoqArfcYPrvAR8/Untitled?node-id=0%3A1) which can be found in full [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment05/). By creating the prototype on figma, I was able to visualize the tasks I wanted the user to go through. After creating a low-fidelity prototype, I then moved on to create a high-fidelity prototype, which can be found [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment06/). I started off by selecting a chosen wireframe to base the high fidelity off of. I then created a grid to properly lay out all elements and then created different typographic, shape, and color variations. 
 
 ## High-fidelity prototype
