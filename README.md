@@ -7,20 +7,31 @@ This project is about doing a re-design of the Institute for Sustainability's we
 
 
 ## Design Statement
-The goal of this project was to make the website for the Institute for Sustainable Communities more usable, following the ten usability heuristics. By making the site more usable, it will be able to cater more fully to the needs of both passive and active members of the sustainable community on a national level.
+The goal of this project was to make the website for the Institute for Sustainable Communities more usable, following the ten usability heuristics. By making the site more usable, it will be able to cater more fully to the needs of both passive and active members of the sustainable community on a national level. The issues with the current site include it being outdated and inconsistent among different pages. Additionally, the site it hard to navigate and results in confusion by the user. Thus many helpful resources the site provides go unnoticed due to user frustration, resulting in them quitting the site. By resolving these issues, the user is able to find helpful information about sustainability which not only helps them but our planet as well. 
 ## Competitor Analysis 
-I conducted a heuristic evaluation which can be found [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment01/).
-I also conducted a usability test [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment02/) and a user interview [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment03/). 
+I conducted a heuristic evaluation which can be found [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment01/). From the heuristic evaluation we found that the original site is not tailored to any specific age group, but a general adult population who has any sort of interest or passion in sustainability. The site did score well on certain heuristics including match between system and real world visibility of the system status. However, it recieved higher severity ratings when it came to a minimalist design and user control and freedom. Thus, I made sure to note these when creating my prototypes. 
+I also conducted a usability test [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment02/). From this useability test, I found that many usablity issues were found which coincided with what was found in the heuristic evaluation. The user often got confused due to the inconsistencies on the site and there was limitations with freedoms. For example, the user faced limitations when trying to filter between different media types (e.g. only looking for podcasts rather than articles). 
 
 ## User Research
+![ ](screenshot_of_user_interview.png)
+The user interview can be found [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment03/). I began by specifying the research goal and requirements, which I specified as the main acivity of the site to connect users with sustainability oriented projects in their local community. I then went on to target users aged as young adults from 25-35 who are either actively and passively engaged with sustainable efforts. After that, I picked the qualitative research method which was supported by a contextual inquiry guide. I recorded this interview while also keeping the transcription. 
 
 ## UX Storytelling 
+![ ](Persona-Lara.png)
+![ ](Persona-Simon.png)
+From the user research, I went on to create user personas which can be found  [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment04/). I created two personas based on the types of users I identified from the user research, which includes an active user and a passive user. I created Lara, a casual environmentalist, and Simon who identifies as a more active user who wants to get more physically involved with sustainable efforts. 
 
 ## Wireframe and graphic design element variation
+![ ](Persona-Simon.png)
+I then created wireframes, which can be found [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment05/). After digital storytelling and creating the personas and journey maps, I focused in on my tasks to be getting involved and finding reliable resources. I created wireframes by drawing out frames with simple graphical elements on pieces of paper.I had a participant go through and test the low-fidelity prototyping.  
 
 ## Low-fidelity prototype
+![ ](lowfiprototypetesting.png)
+After creating the wireframes on pen and paper, I digitizied it through a [low-fidelity prototype](https://www.figma.com/file/xvuF3d8NpoqArfcYPrvAR8/Untitled?node-id=0%3A1) which can be found in full [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment05/). By creating the prototype on figma, I was able to visualize the tasks I wanted the user to go through. After creating a low-fidelity prototype, I then moved on to create a high-fidelity prototype, which can be found [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment06/). I started off by selecting a chosen wireframe to base the high fidelity off of. I then created a grid to properly lay out all elements and then created different typographic, shape, and color variations. 
 
 ## High-fidelity prototype
+![ ](hifitask1.png)
+After, creaitng a high-filedity screen that includes typographic, coor, and shape specifities I made this [prototype interactive](https://www.figma.com/proto/HYb1oEP49dYpL5DHfSJezO/Prototype-1?page-id=0%3A1&node-id=1%3A2&viewport=203%2C182%2C0.27&scaling=scale-down&starting-point-node-id=1%3A2), which can be found  in depth [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment07/). Based on the feedback, I knew to make the navigation more interaction, include more descriptive signifiers, and fix a few inconsistencies or bugs for my second interation. 
 
 ## Pitch Video
 
