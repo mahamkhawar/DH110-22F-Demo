@@ -37,7 +37,7 @@ Based on the feedback provided, I would make the following edits in my redesign:
   - Based on this feedback:  "I'm assuming that this website will have the navigation bar."
   
 #### Prototype  (2nd Iteration)
- https://www.figma.com/proto/hLSJqi2WiMZvNWCffeVrcB/Prototype-2?page-id=0%3A1&node-id=1%3A2&viewport=-458%2C801%2C0.4&scaling=scale-down&starting-point-node-id=1%3A2
+ [Prototype 2 Link](https://www.figma.com/proto/hLSJqi2WiMZvNWCffeVrcB/Prototype-2?page-id=0%3A1&node-id=1%3A2&viewport=-458%2C801%2C0.4&scaling=scale-down&starting-point-node-id=1%3A2)
  
 #### Usability Test
 [Click here](https://youtu.be/Q4xNoTtYf38)
