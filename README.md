@@ -32,12 +32,19 @@ After creating the wireframes on pen and paper, I digitizied it through a [low-f
 
 ## High-fidelity prototype
 ![ ](hifitask1.png)
-After, creaitng a high-filedity screen that includes typographic, color, and shape specifities I made this [prototype interactive](https://www.figma.com/proto/HYb1oEP49dYpL5DHfSJezO/Prototype-1?page-id=0%3A1&node-id=1%3A2&viewport=203%2C182%2C0.27&scaling=scale-down&starting-point-node-id=1%3A2), which can be found  in depth [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment07/). Based on the feedback, I knew to make the navigation more interaction, include more descriptive signifiers, and fix a few inconsistencies or bugs for my second interation. 
+After, creaitng a high-fidelity screen that includes typographic, color, and shape specifities I made this [prototype interactive](https://www.figma.com/proto/HYb1oEP49dYpL5DHfSJezO/Prototype-1?page-id=0%3A1&node-id=1%3A2&viewport=203%2C182%2C0.27&scaling=scale-down&starting-point-node-id=1%3A2), which can be found  in depth [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment07/). Based on the feedback, I knew to make the navigation more interaction, include more descriptive signifiers, and fix a few inconsistencies or bugs for my second interation. 
 
 ## Pitch Video
+[! [Pitch Video](http://img.youtube.com/vi/JMSPiH-EuG0/0.jpg)](https://youtu.be/bBCrcHsH2fQ)
 
+<figure class ="video_container">
+   <iframe width ="560" height = "315" src="https://youtu.be/bBCrcHsH2fQ" frameborder ="0" allow="accelerometer; encrypted-media; gyroscrop; picture-in-picture" allowfullscreen></iframe>
+  </figure>
+                                                                                                
 ## Conclusion 
 
-From this quarter, I
+From this quarter, I feel that I was able to learn a lot about the design process. Before going into this class I would say I preferred user research, and while that hasn't changed, I do feel that I both understand and appreciate the user interface design aspect of user expereience more. 
+
+The parts of this project which definitely tested my 
 
 
