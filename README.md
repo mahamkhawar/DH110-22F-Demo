@@ -22,7 +22,7 @@ The user interview can be found [here](https://mahamkhawar.github.io/DH110-22F-M
 From the user research, I went on to create user personas which can be found  [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment04/). I created two personas based on the types of users I identified from the user research, which includes an active user and a passive user. I created Lara, a casual environmentalist, and Simon who identifies as a more active user who wants to get more physically involved with sustainable efforts. 
 
 ## Wireframe and graphic design element variation
-![ ](Persona-Simon.png)
+![ ](wireframes1.png)
 I then created wireframes, which can be found [here](https://mahamkhawar.github.io/DH110-22F-MahamKhawar/assignment05/). After digital storytelling and creating the personas and journey maps, I focused in on my tasks to be getting involved and finding reliable resources. I created wireframes by drawing out frames with simple graphical elements on pieces of paper.I had a participant go through and test the low-fidelity prototyping.  
 
 ## Low-fidelity prototype
