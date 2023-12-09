@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # UX Redesign for Institute for Sutainable Communities
 ## Maham Khawar- UCLA DH110 Seminar: User Experience Design
 
